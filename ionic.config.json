@@ -1,0 +1,7 @@
+{
+  "name": "FoodBox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
